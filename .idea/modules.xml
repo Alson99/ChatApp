@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chat (1)/Chat/ChatIO/ChatIO.iml" filepath="$PROJECT_DIR$/Chat (1)/Chat/ChatIO/ChatIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chat (1)/Chat/Client/Client.iml" filepath="$PROJECT_DIR$/Chat (1)/Chat/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chat (1)/Chat/Server/Server.iml" filepath="$PROJECT_DIR$/Chat (1)/Chat/Server/Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Личные сообщ.iml" filepath="$PROJECT_DIR$/.idea/Личные сообщ.iml" />
+    </modules>
+  </component>
+</project>
